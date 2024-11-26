@@ -19,7 +19,7 @@ const projects_data = [
         p_no: 3,
         p_name: "Portfolio Website - React JS",
         p_img: portfolioproject_img,
-        repo_url: "https://github.com/liamford1/FitnessApp.git",
+        repo_url: "https://github.com/liamford1/portfolio_website.git",
     },
     /* {
         p_no: 4,

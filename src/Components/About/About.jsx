@@ -21,8 +21,8 @@ const About = () => {
             </div>
             <div className="about-right">
                 <div className="about-para">
-                    <p>ADD TEXT</p>
-                    <p>ADD TEXT</p>
+                    <p>I am originally from Marin County CA and am currently located in Boulder CO. I have a passion for technology and am always looking to further my skills in programming and software development.</p>
+                    <h3>SKILLS</h3>
                 </div>
                 <div className="about-skills">
                     <div className="skill-tile">

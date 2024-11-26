@@ -29,10 +29,15 @@ const Projects = () => {
           );
         })}
       </div>
-      <div className="projects-showmore">
-        <p>Show More</p>
-        <img src={arrow_icon} alt="" />
-      </div>
+      <a
+      href="https://github.com/liamford1" 
+      target="_blank"
+      rel="noopener noreferrer"
+      className="projects-showmore"
+      >
+      <p>Show More</p>
+      <img src={arrow_icon} alt="" />
+    </a>
     </div>
   )
 }

@@ -74,6 +74,7 @@
     margin-bottom: 40px;
     transition: all 0.3s ease;
     cursor: pointer;
+    text-decoration: none;
 }
 
 .projects-showmore:hover {
